@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Hierarchy.Backend/" />
+  <Folder Name="/Hierarchy.Frontend/">
+    <Project Path="HierarchyApp.Frontend/HierarchyApp.Frontend.csproj" Id="1df1319e-a8bc-4b48-b5b2-4df35c75f08e" />
+  </Folder>
+</Solution>
