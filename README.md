@@ -3,4 +3,4 @@ Workshop #2 for my Data Structure and Laboratory course for Third Semester in Ap
 
 Consists in Hierarchy application on geometric figures to calculate their area and perimeter gotten by an abstract class 
 
-made by: Jeronimo Ramirez Restreppop
+made by: Jeronimo Ramirez Restrepo
